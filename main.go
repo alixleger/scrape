@@ -6,7 +6,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/lawzava/emailscraper"
+	"github.com/alixleger/emailscraper"
 	"github.com/spf13/cobra"
 )
 
